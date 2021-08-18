@@ -63,7 +63,7 @@ void display(int arr[])
 int main()
 
 {
-    printf("Register Number:  \n");
+    printf("Register Number: \t 312320104167\n");
 
 
     printf("\n---Menu---\n1. Push\n2. Pop\n3. Peek\n4. Display\n5. Exit\n");
