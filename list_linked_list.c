@@ -36,7 +36,7 @@ int main(int argc, char *argv[])
 { 
 int option; 
 
-printf("Register Number: \t 312320104167\n");
+printf("Register Number: \t 312320104\n");
 printf("\n\n ***** LIST ADT USING LINKED LIST*****"); 
 printf("\n 1: Create a list"); 
 printf("\n 2: Display the list"); 

@@ -10,8 +10,8 @@ gcc stack_linked_list.c -o "stack_linked_list"
 
 struct stack 
 { 
-int data; 
-struct stack *next; 
+    int data; 
+    struct stack *next; 
 }; 
 
  
@@ -30,7 +30,7 @@ int main(int argc, char *argv[])
     int val, option; 
 
 
-    printf("Register Number: \t 312320104167\n");
+    printf("Register Number: \t 312320104\n");
     printf("\n ***** STACK ADT USING LINKED LIST *****"); 
     printf("\n 1. PUSH"); 
     printf("\n 2. POP");
