@@ -107,7 +107,7 @@ void polyAdd(struct node* head1, struct node* head2){
         }
 
         printf("Added polynomial is: ");
-        printf(head3);
+        print(head3);
     }
 }
 
